@@ -43,7 +43,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 "C:\Users\acer\Downloads\kannanEDM.EX 1.f3d"
-<img width="638" height="637" alt="Screenshot 2026-10-13 150947" src="https://github.com/user-attachments/assets/6cb36e8d-f6b0-4793-8d31-63e555c5cea0" />
+<img width="638" height="637" alt="Screenshot 2026-10-13 150947" src="https://github.com/user-attachments/assets/6cb36e8d-f6b0-4793-8d31-63e555c5cea0" /
 <img width="752" height="726" alt="Screenshot 2026-10-13 150924" src="https://github.com/user-attachments/assets/baa085a8-a729-48ab-ae69-00c0d15c3bb4" />
 <img width="1016" height="716" alt="{A0D8379F-5F38-4B50-B00B-7EFB6FF39ACE}" src="https://github.com/user-attachments/assets/9b481a72-97d6-430a-8b44-31899506ef4b" />
 

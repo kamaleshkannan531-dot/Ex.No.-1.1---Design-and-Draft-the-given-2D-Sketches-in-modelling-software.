@@ -53,7 +53,8 @@ OUTPUT:
 
 
  3. Final Drawing Sheet with Dimensions:
-<img width="1016" height="716" alt="Screenshot 2026-10-13 151650" src="https://github.com/user-attachments/assets/5376b7ee-10f8-43d5-b2f8-247eb7564cbb" />
+    <img width="1016" height="716" alt="Screenshot 2026-10-13 151650" src="https://github.com/user-attachments/assets/db542d30-6361-41cf-a046-5168dc9360c4" />
+
 
 
 

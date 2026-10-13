@@ -42,7 +42,9 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
-
+"C:\Users\acer\Downloads\kannanEDM.EX 1.f3d"
+<img width="638" height="637" alt="Screenshot 2026-10-13 150947" src="https://github.com/user-attachments/assets/6cb36e8d-f6b0-4793-8d31-63e555c5cea0" />
+<img width="752" height="726" alt="Screenshot 2026-10-13 150924" src="https://github.com/user-attachments/assets/baa085a8-a729-48ab-ae69-00c0d15c3bb4" />
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
